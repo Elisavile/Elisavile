@@ -7,5 +7,8 @@ You can click the Preview link to take a look at your changes.
 ## 🛠 Technical Stack
 *   Python(pandas, numpy, sklearn, matplotlib, seaborn)
 *   MySQL, PostgreSQL
-*   Power BI 
+*   Power BI
+*   Statistics and probability theory
+*   R
+*   Jasp, Orange, Loginom
 
