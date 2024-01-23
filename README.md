@@ -5,8 +5,8 @@ Elisavile/Elisavile is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## 🛠 Technical Stack
-*   Python(pandas, numpy, sklearn, matplotlib, seaborn)
-*   MySQL, PostgreSQL
+*   Python: pandas, NumPy, matplotlib, SciPy, scikit-learn, statsmodels
+*   SQL: PostgreSQL, CTE, оконные функции, подзапросы, PostgreSQL, Clickhouse, MySQL
 *   Power BI
 *   Statistics and probability theory
 *   R
