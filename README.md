@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 📲 Контакты
 * [Telegram](https://t.me/llisameow)
-* [Mail](savelecaliza04@yandex.ru)
+* savelecaliza04@yandex.ru
   
 ## 🛠 Стек технологий
 *   Python: pandas, NumPy, matplotlib, SciPy, scikit-learn, statsmodels
