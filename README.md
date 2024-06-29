@@ -62,3 +62,4 @@ You can click the Preview link to take a look at your changes.
 | Статистика, stepik | [Статистика](https://github.com/Elisavile/Certificates/blob/main/Статистика.png) |
 | Кейс-чемпионат CUP IT | [CUP IT](https://github.com/Elisavile/Certificates/blob/main/Cup%20IT%202024%20-%20Диплом%20-%20Елизавета%20Савельева.pdf) |
 | Хакатон SQL Challenge | [SQL](https://github.com/Elisavile/Certificates/blob/main/Сертификат%20участника%2C%20SQL%20Challenge.pdf) |
+| Кейс-чемпионат "Просканируй ретейл" | [Просканируй ретейл](https://github.com/Elisavile/Certificates/blob/main/Лента%20Просканируй%20ритейл%202024%20-%20Диплом%20-%20Елизавета%20Савельева.pdf) |
